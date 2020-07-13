@@ -1,6 +1,6 @@
 # Devendra Kushwah
-[![Linkedin Badge](https://img.shields.io/badge/-devendrakushwah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devendrakushwah/)](https://www.linkedin.com/in/namitdoshi/)
-[![Gmail Badge](https://img.shields.io/badge/-idevendrao8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idevendra08@gmail.com)](mailto:namitdoshi90@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-devendrakushwah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devendrakushwah/)](ttps://www.linkedin.com/in/devendrakushwah/)
+[![Gmail Badge](https://img.shields.io/badge/-idevendrao8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idevendra08@gmail.com)](mailto:idevendra08@gmail.com)
 ---
 ### Hi there 👋
 
