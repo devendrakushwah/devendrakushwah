@@ -1,10 +1,7 @@
 ## Hi, I'm [Devendra Kushwah](https://devendrakushwah.github.io) 👋
+
 [![Linkedin Badge](https://img.shields.io/badge/-devendrakushwah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devendrakushwah/)](https://www.linkedin.com/in/devendrakushwah/)
 [![Gmail Badge](https://img.shields.io/badge/-idevendrao8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idevendra08@gmail.com)](mailto:idevendra08@gmail.com)
-
-<br/>
-<br/>
-
 
 - 🔭 I’m currently working on [X](https://github.com/devendrakushwah/)
 - 🌱 I’m currently learning React Js and Spring
