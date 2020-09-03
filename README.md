@@ -31,9 +31,9 @@
 ### Quick Stats:
 
 <a href="https://github.com/devendrakushwah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrakushwah&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrakushwah&theme=nord&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/devendrakushwah">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=devendrakushwah&show_icons=true&theme=tokyonight&line_height=32" alt="Devendras's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=devendrakushwah&show_icons=true&theme=nord&line_height=32" alt="Devendras's github stats"/>
 </a>
