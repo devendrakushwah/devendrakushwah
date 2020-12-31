@@ -4,7 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-idevendrao8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idevendra08@gmail.com)](mailto:idevendra08@gmail.com)
 
 - 🔭 I’m currently working on [X](https://github.com/devendrakushwah/)
-- 🌱 I’m currently learning React Js and Spring
 - 👯 I’m looking to collaborate on React projects
 - 💬 Ask me about any Tech!
 - 📫 How to reach me: [email](mailto:idevendra08@gmail.com), [LinkedIn](https://linkedin.com/in/devendrakushwah)
@@ -19,12 +18,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 <br/>
 
