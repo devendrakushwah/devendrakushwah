@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-idevendrao8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idevendra08@gmail.com)](mailto:idevendra08@gmail.com)
 
 - 🔭 I’m currently working on [X](https://github.com/devendrakushwah/)
-- 👯 I’m looking to collaborate on React projects
+- 👯 I’m looking to collaborate on Python projects
 - 💬 Ask me about any Tech!
 - 📫 How to reach me: [email](mailto:idevendra08@gmail.com), [LinkedIn](https://linkedin.com/in/devendrakushwah)
 
